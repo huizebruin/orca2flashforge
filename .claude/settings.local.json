@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__cloudscraper-mcp__scrape_url",
+      "Bash(python test_convert.py:*)",
+      "Bash(python tests/test_convert.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
